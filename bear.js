@@ -39,7 +39,7 @@ bot.variables({
   yetkilirol:"",
   kayitkanal:"",
   mrol:"",
-  tag:"◯",//her zaman "" den sonra , koyun
+  tag:"🌟",//her zaman "" den sonra , koyun
   })
 
 bot.joinCommand({
